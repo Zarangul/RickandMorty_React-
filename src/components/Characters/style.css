@@ -1,0 +1,12 @@
+.characters {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.item {
+    margin: 5px;
+    width: 300px;
+}
